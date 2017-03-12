@@ -1,0 +1,631 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARCHITECTURE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	391;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	394;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	397;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	401;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	403;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	405;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	409;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	412;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	415;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	420;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	423;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	426;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	430;"	d	file:
+AbstractSampleSource	abstractsamplesource.h	/^class AbstractSampleSource$/;"	c
+AmplitudeDemod	amplitudedemod.cpp	/^AmplitudeDemod::AmplitudeDemod(std::shared_ptr<SampleSource<std::complex<float>>> src) : SampleBuffer(src)$/;"	f	class:AmplitudeDemod
+AmplitudeDemod	amplitudedemod.h	/^class AmplitudeDemod : public SampleBuffer<std::complex<float>, float>$/;"	c
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/mark\/repos\/inspectrum\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/mark\/repos\/inspectrum$/;"	m
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	212;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	221;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	224;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	257;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	260;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	263;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	50;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	62;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	185;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	196;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	215;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	242;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	247;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	96;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	197;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	233;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	243;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	248;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	176;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	204;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	217;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	234;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	249;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	208;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+ComplexF32SampleAdapter	inputsource.cpp	/^class ComplexF32SampleAdapter : public SampleAdapter {$/;"	c	file:
+ComplexS16SampleAdapter	inputsource.cpp	/^class ComplexS16SampleAdapter : public SampleAdapter {$/;"	c	file:
+ComplexS8SampleAdapter	inputsource.cpp	/^class ComplexS8SampleAdapter : public SampleAdapter {$/;"	c	file:
+ComplexU8SampleAdapter	inputsource.cpp	/^class ComplexU8SampleAdapter : public SampleAdapter {$/;"	c	file:
+Cursor	cursor.cpp	/^Cursor::Cursor(Qt::Orientation orientation, Qt::CursorShape mouseCursorShape, QObject * parent) : QObject::QObject(parent), orientation(orientation), cursorShape(mouseCursorShape)$/;"	f	class:Cursor
+Cursor	cursor.h	/^class Cursor : public QObject$/;"	c
+Cursors	cursors.cpp	/^Cursors::Cursors(QObject * parent) : QObject::QObject(parent)$/;"	f	class:Cursors
+Cursors	cursors.h	/^class Cursors : public QObject$/;"	c
+DEC	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	434;"	d	file:
+EQUALS	build/Makefile	/^EQUALS = =$/;"	m
+FFT	fft.cpp	/^FFT::FFT(int size)$/;"	f	class:FFT
+FFT	fft.h	/^class FFT$/;"	c
+FrequencyDemod	frequencydemod.cpp	/^FrequencyDemod::FrequencyDemod(std::shared_ptr<SampleSource<std::complex<float>>> src) : SampleBuffer(src)$/;"	f	class:FrequencyDemod
+FrequencyDemod	frequencydemod.h	/^class FrequencyDemod : public SampleBuffer<std::complex<float>, float>$/;"	c
+HEX	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	445;"	d	file:
+InputSource	inputsource.cpp	/^InputSource::InputSource()$/;"	f	class:InputSource
+InputSource	inputsource.h	/^class InputSource : public SampleSource<std::complex<float>>$/;"	c
+MainWindow	mainwindow.cpp	/^MainWindow::MainWindow()$/;"	f	class:MainWindow
+MainWindow	mainwindow.h	/^class MainWindow : public QMainWindow$/;"	c
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	288;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	291;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	294;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	297;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	300;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	303;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	306;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	309;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	312;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	315;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	318;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	321;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	324;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	327;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	330;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	333;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	336;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	339;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	342;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	345;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	348;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	351;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	354;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	357;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	360;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	364;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	367;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	370;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	373;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	376;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	380;"	d	file:
+PLOT_LAYER	plotview.cpp	407;"	d	file:
+PLOT_LAYER	plotview.cpp	428;"	d	file:
+PhaseDemod	phasedemod.cpp	/^PhaseDemod::PhaseDemod(std::shared_ptr<SampleSource<std::complex<float>>> src) : SampleBuffer(src)$/;"	f	class:PhaseDemod
+PhaseDemod	phasedemod.h	/^class PhaseDemod : public SampleBuffer<std::complex<float>, float>$/;"	c
+Plot	plot.cpp	/^Plot::Plot(std::shared_ptr<AbstractSampleSource> src) : sampleSource(src)$/;"	f	class:Plot
+Plot	plot.h	/^class Plot : public QObject, public Subscriber$/;"	c
+PlotInfo	plots.h	/^struct PlotInfo$/;"	s
+PlotView	plotview.cpp	/^PlotView::PlotView(InputSource *input) : cursors(this), viewRange({0, 0})$/;"	f	class:PlotView
+PlotView	plotview.h	/^class PlotView : public QGraphicsView, Subscriber$/;"	c
+Plots	plots.h	/^class Plots$/;"	c
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_cursor_YX6DEX2X442UWD.cpp	27;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_cursor_YX6DEX2X442UWD.cpp	41;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_cursors_2W53KGSG6JZ4HK.cpp	27;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_cursors_2W53KGSG6JZ4HK.cpp	42;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_mainwindow_L2CLFKCLUYECYY.cpp	27;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_mainwindow_L2CLFKCLUYECYY.cpp	45;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_plot_V4FBCMGR26WIQ5.cpp	27;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_plot_V4FBCMGR26WIQ5.cpp	41;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_plotview_VNP5R5UWLMQDXA.cpp	27;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_plotview_VNP5R5UWLMQDXA.cpp	63;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_spectrogramcon_FAKNOREBDHBS5X.cpp	27;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_spectrogramcon_FAKNOREBDHBS5X.cpp	63;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_spectrogramplo_GKCJ6X4YSQTXQM.cpp	27;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_spectrogramplo_GKCJ6X4YSQTXQM.cpp	50;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_traceplot_DAK4UOJUVQJRGX.cpp	27;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_traceplot_DAK4UOJUVQJRGX.cpp	45;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_tuner_QZZCWSNDRQJSOX.cpp	27;"	d	file:
+QT_MOC_LITERAL	build/inspectrum_automoc.dir/moc_tuner_QZZCWSNDRQJSOX.cpp	42;"	d	file:
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	172;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	165;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+STRINGIFY	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	284;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	283;"	d	file:
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+SampleAdapter	inputsource.h	/^class SampleAdapter {$/;"	c
+SampleBuffer	samplebuffer.cpp	/^SampleBuffer<Tin, Tout>::SampleBuffer(std::shared_ptr<SampleSource<Tin>> src) : src(src)$/;"	f	class:SampleBuffer
+SampleBuffer	samplebuffer.h	/^class SampleBuffer : public SampleSource<Tout>, public Subscriber$/;"	c
+SampleSource	samplesource.h	/^class SampleSource : public AbstractSampleSource$/;"	c
+SpectrogramControls	spectrogramcontrols.cpp	/^SpectrogramControls::SpectrogramControls(const QString & title, QWidget * parent)$/;"	f	class:SpectrogramControls
+SpectrogramControls	spectrogramcontrols.h	/^class SpectrogramControls : public QDockWidget$/;"	c
+SpectrogramPlot	spectrogramplot.cpp	/^SpectrogramPlot::SpectrogramPlot(std::shared_ptr<SampleSource<std::complex<float>>> src) : Plot(src), inputSource(src), fftSize(512), tuner(fftSize, this)$/;"	f	class:SpectrogramPlot
+SpectrogramPlot	spectrogramplot.h	/^class SpectrogramPlot : public Plot$/;"	c
+Subscriber	subscriber.h	/^class Subscriber$/;"	c
+Tau	util.h	/^static const double Tau = M_PI * 2.0;$/;"	v
+Threshold	threshold.cpp	/^Threshold::Threshold(std::shared_ptr<SampleSource<float>> src) : SampleBuffer(src)$/;"	f	class:Threshold
+Threshold	threshold.h	/^class Threshold : public SampleBuffer<float, float>$/;"	c
+TileCacheKey	spectrogramplot.h	/^    TileCacheKey(int fftSize, int zoomLevel, off_t sample) {$/;"	f	class:TileCacheKey
+TileCacheKey	spectrogramplot.h	/^class TileCacheKey$/;"	c
+TracePlot	traceplot.cpp	/^TracePlot::TracePlot(std::shared_ptr<AbstractSampleSource> source) : Plot(source) {$/;"	f	class:TracePlot
+TracePlot	traceplot.h	/^class TracePlot : public Plot$/;"	c
+Tuner	tuner.cpp	/^Tuner::Tuner(int height, QObject * parent) : height(height), QObject::QObject(parent)$/;"	f	class:Tuner
+Tuner	tuner.h	/^class Tuner : public QObject$/;"	c
+TunerTransform	tunertransform.cpp	/^TunerTransform::TunerTransform(std::shared_ptr<SampleSource<std::complex<float>>> src) : SampleBuffer(src), frequency(0), bandwidth(1.), taps{1.0f}$/;"	f	class:TunerTransform
+TunerTransform	tunertransform.h	/^class TunerTransform : public SampleBuffer<std::complex<float>, std::complex<float>>$/;"	c
+_deviation	tuner.h	/^    int _deviation;$/;"	m	class:Tuner
+_height	plot.h	/^    int _height = 200;$/;"	m	class:Plot
+_init	plots.h	/^        _init() {$/;"	f	class:Plots::_init
+_init	plots.h	/^    static class _init$/;"	c	class:Plots
+_initializer	plots.cpp	/^Plots::_init Plots::_initializer;$/;"	m	class:Plots	file:
+_initializer	plots.h	/^    } _initializer;$/;"	m	class:Plots	typeref:class:Plots::_init
+addPlot	plotview.cpp	/^void PlotView::addPlot(Plot *plot)$/;"	f	class:PlotView
+amplitudePlot	plots.cpp	/^Plot* Plots::amplitudePlot(std::shared_ptr<AbstractSampleSource> source)$/;"	f	class:Plots
+as_range	util.h	/^inline iter_pair_range<Iter> as_range(std::pair<Iter,Iter> const& x)$/;"	f
+bandwidth	tunertransform.h	/^    float bandwidth;$/;"	m	class:TunerTransform
+begin	util.h	/^    Iter begin() const {$/;"	f	struct:iter_pair_range
+below_range	util.h	/^    bool below_range(const T& value) const {$/;"	f	struct:range_t
+centre	tuner.cpp	/^int Tuner::centre()$/;"	f	class:Tuner
+cfCursor	tuner.h	/^    Cursor *cfCursor;$/;"	m	class:Tuner
+clamp	util.h	/^template <class T> const T& clamp (const T& value, const T& min, const T& max)$/;"	f
+cleanup	inputsource.cpp	/^void InputSource::cleanup()$/;"	f	class:InputSource
+clearCursorLabels	spectrogramcontrols.cpp	/^void SpectrogramControls::clearCursorLabels()$/;"	f	class:SpectrogramControls
+clip	util.h	/^    const T& clip(const T& value) const {$/;"	f	struct:range_t
+colormap	spectrogramplot.h	/^    uint colormap[256];$/;"	m	class:SpectrogramPlot
+columnToSample	plotview.cpp	/^off_t PlotView::columnToSample(int col)$/;"	f	class:PlotView
+contains	util.h	/^    bool contains(const T& value) const {$/;"	f	struct:range_t
+contextMenuEvent	plotview.cpp	/^void PlotView::contextMenuEvent(QContextMenuEvent * event)$/;"	f	class:PlotView
+count	inputsource.h	/^    off_t count() {$/;"	f	class:InputSource
+count	samplebuffer.h	/^    virtual off_t count() {$/;"	f	class:SampleBuffer
+creator	plots.h	/^    std::function<Plot*(std::shared_ptr<AbstractSampleSource>)> creator;$/;"	m	struct:PlotInfo
+cursorMoved	cursors.cpp	/^void Cursors::cursorMoved()$/;"	f	class:Cursors
+cursorMoved	tuner.cpp	/^void Tuner::cursorMoved()$/;"	f	class:Tuner
+cursorOverride	cursors.h	/^    bool cursorOverride = false;   \/\/ used to record if cursor is overridden$/;"	m	class:Cursors
+cursorOverrided	cursor.h	/^    bool cursorOverrided = false;$/;"	m	class:Cursor
+cursorPosition	cursor.h	/^    int cursorPosition = 0;$/;"	m	class:Cursor
+cursorShape	cursor.h	/^    Qt::CursorShape cursorShape;$/;"	m	class:Cursor
+cursorSymbolsSpinBox	spectrogramcontrols.h	/^    QSpinBox *cursorSymbolsSpinBox;$/;"	m	class:SpectrogramControls
+cursors	plotview.h	/^    Cursors cursors;$/;"	m	class:PlotView
+cursorsCheckBox	spectrogramcontrols.h	/^    QCheckBox *cursorsCheckBox;$/;"	m	class:SpectrogramControls
+cursorsEnabled	plotview.h	/^    bool cursorsEnabled;$/;"	m	class:PlotView
+cursorsMoved	build/inspectrum_automoc.dir/moc_cursors_2W53KGSG6JZ4HK.cpp	/^void Cursors::cursorsMoved()$/;"	f	class:Cursors
+cursorsMoved	plotview.cpp	/^void PlotView::cursorsMoved()$/;"	f	class:PlotView
+cursorsStateChanged	spectrogramcontrols.cpp	/^void SpectrogramControls::cursorsStateChanged(int state)$/;"	f	class:SpectrogramControls
+data	build/inspectrum_automoc.dir/moc_cursor_YX6DEX2X442UWD.cpp	/^    QByteArrayData data[3];$/;"	m	struct:qt_meta_stringdata_Cursor_t	file:
+data	build/inspectrum_automoc.dir/moc_cursors_2W53KGSG6JZ4HK.cpp	/^    QByteArrayData data[4];$/;"	m	struct:qt_meta_stringdata_Cursors_t	file:
+data	build/inspectrum_automoc.dir/moc_mainwindow_L2CLFKCLUYECYY.cpp	/^    QByteArrayData data[6];$/;"	m	struct:qt_meta_stringdata_MainWindow_t	file:
+data	build/inspectrum_automoc.dir/moc_plot_V4FBCMGR26WIQ5.cpp	/^    QByteArrayData data[3];$/;"	m	struct:qt_meta_stringdata_Plot_t	file:
+data	build/inspectrum_automoc.dir/moc_plotview_VNP5R5UWLMQDXA.cpp	/^    QByteArrayData data[20];$/;"	m	struct:qt_meta_stringdata_PlotView_t	file:
+data	build/inspectrum_automoc.dir/moc_spectrogramcon_FAKNOREBDHBS5X.cpp	/^    QByteArrayData data[19];$/;"	m	struct:qt_meta_stringdata_SpectrogramControls_t	file:
+data	build/inspectrum_automoc.dir/moc_spectrogramplo_GKCJ6X4YSQTXQM.cpp	/^    QByteArrayData data[10];$/;"	m	struct:qt_meta_stringdata_SpectrogramPlot_t	file:
+data	build/inspectrum_automoc.dir/moc_traceplot_DAK4UOJUVQJRGX.cpp	/^    QByteArrayData data[6];$/;"	m	struct:qt_meta_stringdata_TracePlot_t	file:
+data	build/inspectrum_automoc.dir/moc_tuner_QZZCWSNDRQJSOX.cpp	/^    QByteArrayData data[4];$/;"	m	struct:qt_meta_stringdata_Tuner_t	file:
+deviation	tuner.cpp	/^int Tuner::deviation()$/;"	f	class:Tuner
+dock	mainwindow.h	/^    SpectrogramControls *dock;$/;"	m	class:MainWindow
+dragPos	cursors.h	/^    QPoint dragPos;                \/\/ keep track of dragging distance$/;"	m	class:Cursors
+dragging	cursor.h	/^    bool dragging = false;$/;"	m	class:Cursor
+dragging	cursors.h	/^    bool dragging = false;         \/\/ record if mouse is dragging$/;"	m	class:Cursors
+drawTile	traceplot.cpp	/^void TracePlot::drawTile(QString key, const QRect &rect, range_t<off_t> sampleRange)$/;"	f	class:TracePlot
+emitTimeSelection	plotview.cpp	/^void PlotView::emitTimeSelection()$/;"	f	class:PlotView
+enableCursors	plotview.cpp	/^void PlotView::enableCursors(bool enabled)$/;"	f	class:PlotView
+enableScales	plotview.cpp	/^void PlotView::enableScales(bool enabled)$/;"	f	class:PlotView
+enableScales	spectrogramplot.cpp	/^void SpectrogramPlot::enableScales(bool enabled)$/;"	f	class:SpectrogramPlot
+end	util.h	/^    Iter end()   const {$/;"	f	struct:iter_pair_range
+exportSamples	plotview.cpp	/^void PlotView::exportSamples(std::shared_ptr<AbstractSampleSource> src)$/;"	f	class:PlotView
+extractSymbols	plotview.cpp	/^void PlotView::extractSymbols(std::shared_ptr<AbstractSampleSource> src)$/;"	f	class:PlotView
+features	build/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v
+fft	spectrogramplot.h	/^    std::unique_ptr<FFT> fft;$/;"	m	class:SpectrogramPlot
+fftCache	spectrogramplot.h	/^    QCache<TileCacheKey, std::array<float, tileSize>> fftCache;$/;"	m	class:SpectrogramPlot
+fftOrZoomChanged	build/inspectrum_automoc.dir/moc_spectrogramcon_FAKNOREBDHBS5X.cpp	/^void SpectrogramControls::fftOrZoomChanged(int _t1, int _t2)$/;"	f	class:SpectrogramControls
+fftOrZoomChanged	spectrogramcontrols.cpp	/^void SpectrogramControls::fftOrZoomChanged(void)$/;"	f	class:SpectrogramControls
+fftSize	fft.h	/^    int fftSize;$/;"	m	class:FFT
+fftSize	plotview.h	/^    int fftSize = 1024;$/;"	m	class:PlotView
+fftSize	spectrogramplot.h	/^    int fftSize;$/;"	m	class:SpectrogramPlot
+fftSize	spectrogramplot.h	/^    int fftSize;$/;"	m	class:TileCacheKey
+fftSizeChanged	spectrogramcontrols.cpp	/^void SpectrogramControls::fftSizeChanged(int value)$/;"	f	class:SpectrogramControls
+fftSizeSlider	spectrogramcontrols.h	/^    QSlider *fftSizeSlider;$/;"	m	class:SpectrogramControls
+fftwIn	fft.h	/^    fftwf_complex *fftwIn = nullptr;$/;"	m	class:FFT
+fftwOut	fft.h	/^    fftwf_complex *fftwOut = nullptr;$/;"	m	class:FFT
+fftwPlan	fft.h	/^    fftwf_plan fftwPlan = nullptr;$/;"	m	class:FFT
+fileOpenButton	spectrogramcontrols.h	/^    QPushButton *fileOpenButton;$/;"	m	class:SpectrogramControls
+fileOpenButtonClicked	spectrogramcontrols.cpp	/^void SpectrogramControls::fileOpenButtonClicked()$/;"	f	class:SpectrogramControls
+fileSize	inputsource.h	/^    off_t fileSize = 0;$/;"	m	class:InputSource
+formatSIValue	util.cpp	/^std::string formatSIValue(float value)$/;"	f
+frequency	tunertransform.h	/^    float frequency;$/;"	m	class:TunerTransform
+frequencyPlot	plots.cpp	/^Plot* Plots::frequencyPlot(std::shared_ptr<AbstractSampleSource> source)$/;"	f	class:Plots
+frequencyScaleEnabled	spectrogramplot.h	/^    bool frequencyScaleEnabled;$/;"	m	class:SpectrogramPlot
+fromPoint	cursor.cpp	/^int Cursor::fromPoint(QPoint point)$/;"	f	class:Cursor
+getFFTTile	spectrogramplot.cpp	/^float* SpectrogramPlot::getFFTTile(off_t tile)$/;"	f	class:SpectrogramPlot
+getFileNameFilter	util.cpp	/^template<> const char* getFileNameFilter<float>() { return "float file (*.f32)"; };$/;"	f
+getFileNameFilter	util.cpp	/^template<> const char* getFileNameFilter<std::complex<float>>() { return "complex<float> file (*.fc32)"; };$/;"	f
+getLine	spectrogramplot.cpp	/^void SpectrogramPlot::getLine(float *dest, off_t sample)$/;"	f	class:SpectrogramPlot
+getPixmapTile	spectrogramplot.cpp	/^QPixmap* SpectrogramPlot::getPixmapTile(off_t tile)$/;"	f	class:SpectrogramPlot
+getSamples	inputsource.cpp	/^std::unique_ptr<std::complex<float>[]> InputSource::getSamples(off_t start, off_t length)$/;"	f	class:InputSource
+getSamples	samplebuffer.cpp	/^std::unique_ptr<Tout[]> SampleBuffer<Tin, Tout>::getSamples(off_t start, off_t length)$/;"	f	class:SampleBuffer
+getSize	fft.h	/^    int getSize() {$/;"	f	class:FFT
+getStride	spectrogramplot.cpp	/^int SpectrogramPlot::getStride()$/;"	f	class:SpectrogramPlot
+getTile	traceplot.cpp	/^QPixmap TracePlot::getTile(off_t tileID, off_t sampleCount)$/;"	f	class:TracePlot
+getTunerPhaseInc	spectrogramplot.cpp	/^float SpectrogramPlot::getTunerPhaseInc()$/;"	f	class:SpectrogramPlot
+getTunerTaps	spectrogramplot.cpp	/^std::vector<float> SpectrogramPlot::getTunerTaps()$/;"	f	class:SpectrogramPlot
+handleImage	traceplot.cpp	/^void TracePlot::handleImage(QString key, QImage image)$/;"	f	class:TracePlot
+height	plot.h	/^    int height() const { return _height; };$/;"	f	class:Plot
+height	tuner.h	/^    int height;$/;"	m	class:Tuner
+imageReady	build/inspectrum_automoc.dir/moc_traceplot_DAK4UOJUVQJRGX.cpp	/^void TracePlot::imageReady(QString _t1, QImage _t2)$/;"	f	class:TracePlot
+info_arch	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_dialect_default	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_platform	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+input	mainwindow.h	/^    InputSource *input;$/;"	m	class:MainWindow
+input	spectrogramplot.h	/^    std::shared_ptr<SampleSource<std::complex<float>>> input() { return inputSource; };$/;"	f	class:SpectrogramPlot
+inputFile	inputsource.h	/^    FILE *inputFile = nullptr;$/;"	m	class:InputSource
+inputSource	spectrogramplot.h	/^    std::shared_ptr<SampleSource<std::complex<float>>> inputSource;$/;"	m	class:SpectrogramPlot
+invalidate	abstractsamplesource.cpp	/^void AbstractSampleSource::invalidate()$/;"	f	class:AbstractSampleSource
+invalidateEvent	plot.cpp	/^void Plot::invalidateEvent()$/;"	f	class:Plot
+invalidateEvent	plotview.cpp	/^void PlotView::invalidateEvent()$/;"	f	class:PlotView
+invalidateEvent	samplebuffer.cpp	/^void SampleBuffer<Tin, Tout>::invalidateEvent()$/;"	f	class:SampleBuffer
+invalidateEvent	samplesource.h	/^    virtual void invalidateEvent() { };$/;"	f	class:SampleSource
+invalidateEvent	spectrogramplot.cpp	/^void SpectrogramPlot::invalidateEvent()$/;"	f	class:SpectrogramPlot
+iter_pair_range	util.h	/^    iter_pair_range(std::pair<Iter,Iter> const& x) : std::pair<Iter,Iter>(x) { }$/;"	f	struct:iter_pair_range
+iter_pair_range	util.h	/^struct iter_pair_range : std::pair<Iter,Iter> {$/;"	s
+layout	spectrogramcontrols.h	/^    QFormLayout *layout;$/;"	m	class:SpectrogramControls
+length	util.h	/^    const T length() {$/;"	f	struct:range_t
+linesPerGraduation	spectrogramplot.h	/^    const int linesPerGraduation = 50;$/;"	m	class:SpectrogramPlot
+linesPerTile	spectrogramplot.cpp	/^int SpectrogramPlot::linesPerTile()$/;"	f	class:SpectrogramPlot
+main	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	build/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	main.cpp	/^int main(int argc, char *argv[])$/;"	f
+mainSampleSource	plotview.h	/^    SampleSource<std::complex<float>> *mainSampleSource = nullptr;$/;"	m	class:PlotView
+maxCursor	cursors.h	/^    Cursor *maxCursor;$/;"	m	class:Cursors
+maxCursor	tuner.h	/^    Cursor *maxCursor;$/;"	m	class:Tuner
+maximum	util.h	/^    T maximum;$/;"	m	struct:range_t
+metaObject	build/inspectrum_automoc.dir/moc_cursor_YX6DEX2X442UWD.cpp	/^const QMetaObject *Cursor::metaObject() const$/;"	f	class:Cursor
+metaObject	build/inspectrum_automoc.dir/moc_cursors_2W53KGSG6JZ4HK.cpp	/^const QMetaObject *Cursors::metaObject() const$/;"	f	class:Cursors
+metaObject	build/inspectrum_automoc.dir/moc_mainwindow_L2CLFKCLUYECYY.cpp	/^const QMetaObject *MainWindow::metaObject() const$/;"	f	class:MainWindow
+metaObject	build/inspectrum_automoc.dir/moc_plot_V4FBCMGR26WIQ5.cpp	/^const QMetaObject *Plot::metaObject() const$/;"	f	class:Plot
+metaObject	build/inspectrum_automoc.dir/moc_plotview_VNP5R5UWLMQDXA.cpp	/^const QMetaObject *PlotView::metaObject() const$/;"	f	class:PlotView
+metaObject	build/inspectrum_automoc.dir/moc_spectrogramcon_FAKNOREBDHBS5X.cpp	/^const QMetaObject *SpectrogramControls::metaObject() const$/;"	f	class:SpectrogramControls
+metaObject	build/inspectrum_automoc.dir/moc_spectrogramplo_GKCJ6X4YSQTXQM.cpp	/^const QMetaObject *SpectrogramPlot::metaObject() const$/;"	f	class:SpectrogramPlot
+metaObject	build/inspectrum_automoc.dir/moc_traceplot_DAK4UOJUVQJRGX.cpp	/^const QMetaObject *TracePlot::metaObject() const$/;"	f	class:TracePlot
+metaObject	build/inspectrum_automoc.dir/moc_tuner_QZZCWSNDRQJSOX.cpp	/^const QMetaObject *Tuner::metaObject() const$/;"	f	class:Tuner
+minCursor	cursors.h	/^    Cursor *minCursor;$/;"	m	class:Cursors
+minCursor	tuner.h	/^    Cursor *minCursor;$/;"	m	class:Tuner
+minimum	util.h	/^    T minimum;$/;"	m	struct:range_t
+mmapData	inputsource.h	/^    void *mmapData = nullptr;$/;"	m	class:InputSource
+mouseEvent	cursor.cpp	/^bool Cursor::mouseEvent(QEvent::Type type, QMouseEvent event)$/;"	f	class:Cursor
+mouseEvent	cursors.cpp	/^bool Cursors::mouseEvent(QEvent::Type type, QMouseEvent event)$/;"	f	class:Cursors
+mouseEvent	plot.cpp	/^bool Plot::mouseEvent(QEvent::Type type, QMouseEvent event)$/;"	f	class:Plot
+mouseEvent	spectrogramplot.cpp	/^bool SpectrogramPlot::mouseEvent(QEvent::Type type, QMouseEvent event)$/;"	f	class:SpectrogramPlot
+mouseEvent	tuner.cpp	/^bool Tuner::mouseEvent(QEvent::Type type, QMouseEvent event)$/;"	f	class:Tuner
+mutex	samplebuffer.h	/^    QMutex mutex;$/;"	m	class:SampleBuffer
+name	plots.h	/^    const char *name;$/;"	m	struct:PlotInfo
+openFile	build/inspectrum_automoc.dir/moc_spectrogramcon_FAKNOREBDHBS5X.cpp	/^void SpectrogramControls::openFile(QString _t1)$/;"	f	class:SpectrogramControls
+openFile	inputsource.cpp	/^void InputSource::openFile(const char *filename)$/;"	f	class:InputSource
+openFile	mainwindow.cpp	/^void MainWindow::openFile(QString fileName)$/;"	f	class:MainWindow
+operator =	util.h	/^    range_t<T>& operator=(const range_t<T> &other) {$/;"	f	struct:range_t
+operator =	util.h	/^    range_t<T>& operator=(const std::initializer_list<T> &other) {$/;"	f	struct:range_t
+operator ==	spectrogramplot.h	/^    bool operator==(const TileCacheKey &k2) const {$/;"	f	class:TileCacheKey
+orientation	cursor.h	/^    Qt::Orientation orientation;$/;"	m	class:Cursor
+out_of_range	util.h	/^    bool out_of_range(const T& value) const {$/;"	f	struct:range_t
+output	plot.cpp	/^std::shared_ptr<AbstractSampleSource> Plot::output()$/;"	f	class:Plot
+output	spectrogramplot.cpp	/^std::shared_ptr<AbstractSampleSource> SpectrogramPlot::output()$/;"	f	class:SpectrogramPlot
+override	amplitudedemod.h	/^    void work(void *input, void *output, int count, off_t sampleid) override;$/;"	m	class:AmplitudeDemod
+override	frequencydemod.h	/^    void work(void *input, void *output, int count, off_t sampleid) override;$/;"	m	class:FrequencyDemod
+override	phasedemod.h	/^    void work(void *input, void *output, int count, off_t sampleid) override;$/;"	m	class:PhaseDemod
+override	plot.h	/^    void invalidateEvent() override;$/;"	m	class:Plot
+override	plotview.h	/^    bool viewportEvent(QEvent *event) override;$/;"	m	class:PlotView
+override	plotview.h	/^    void contextMenuEvent(QContextMenuEvent * event) override;$/;"	m	class:PlotView
+override	samplesource.h	/^    std::type_index sampleType() override;$/;"	m	class:SampleSource
+override	spectrogramplot.h	/^    bool mouseEvent(QEvent::Type type, QMouseEvent event) override;$/;"	m	class:SpectrogramPlot
+override	spectrogramplot.h	/^    std::shared_ptr<AbstractSampleSource> output() override;$/;"	m	class:SpectrogramPlot
+override	spectrogramplot.h	/^    void invalidateEvent() override;$/;"	m	class:SpectrogramPlot
+override	spectrogramplot.h	/^    void paintFront(QPainter &painter, QRect &rect, range_t<off_t> sampleRange) override;$/;"	m	class:SpectrogramPlot
+override	spectrogramplot.h	/^    void paintMid(QPainter &painter, QRect &rect, range_t<off_t> sampleRange) override;$/;"	m	class:SpectrogramPlot
+override	threshold.h	/^    void work(void *input, void *output, int count, off_t sampleid) override;$/;"	m	class:Threshold
+override	tunertransform.h	/^    void work(void *input, void *output, int count, off_t sampleid) override;$/;"	m	class:TunerTransform
+paintBack	plot.cpp	/^void Plot::paintBack(QPainter &painter, QRect &rect, range_t<off_t> sampleRange)$/;"	f	class:Plot
+paintEvent	plotview.cpp	/^void PlotView::paintEvent(QPaintEvent *event)$/;"	f	class:PlotView
+paintFrequencyScale	spectrogramplot.cpp	/^void SpectrogramPlot::paintFrequencyScale(QPainter &painter, QRect &rect)$/;"	f	class:SpectrogramPlot
+paintFront	cursors.cpp	/^void Cursors::paintFront(QPainter &painter, QRect &rect, range_t<off_t> sampleRange)$/;"	f	class:Cursors
+paintFront	plot.cpp	/^void Plot::paintFront(QPainter &painter, QRect &rect, range_t<off_t> sampleRange)$/;"	f	class:Plot
+paintFront	spectrogramplot.cpp	/^void SpectrogramPlot::paintFront(QPainter &painter, QRect &rect, range_t<off_t> sampleRange)$/;"	f	class:SpectrogramPlot
+paintFront	tuner.cpp	/^void Tuner::paintFront(QPainter &painter, QRect &rect, range_t<off_t> sampleRange)$/;"	f	class:Tuner
+paintMid	plot.cpp	/^void Plot::paintMid(QPainter &painter, QRect &rect, range_t<off_t> sampleRange)$/;"	f	class:Plot
+paintMid	spectrogramplot.cpp	/^void SpectrogramPlot::paintMid(QPainter &painter, QRect &rect, range_t<off_t> sampleRange)$/;"	f	class:SpectrogramPlot
+paintMid	traceplot.cpp	/^void TracePlot::paintMid(QPainter &painter, QRect &rect, range_t<off_t> sampleRange)$/;"	f	class:TracePlot
+paintTimeScale	plotview.cpp	/^void PlotView::paintTimeScale(QPainter &painter, QRect &rect, range_t<off_t> sampleRange)$/;"	f	class:PlotView
+periodLabel	spectrogramcontrols.h	/^    QLabel *periodLabel;$/;"	m	class:SpectrogramControls
+phasePlot	plots.cpp	/^Plot* Plots::phasePlot(std::shared_ptr<AbstractSampleSource> source)$/;"	f	class:Plots
+pixmapCache	spectrogramplot.h	/^    QCache<TileCacheKey, QPixmap> pixmapCache;$/;"	m	class:SpectrogramPlot
+plotTrace	traceplot.cpp	/^void TracePlot::plotTrace(QPainter &painter, const QRect &rect, float *samples, off_t count, int step = 1)$/;"	f	class:TracePlot
+plots	mainwindow.h	/^    PlotView *plots;$/;"	m	class:MainWindow
+plots	plots.cpp	/^std::multimap<std::type_index, PlotInfo> Plots::plots;$/;"	m	class:Plots	file:
+plots	plots.h	/^    static std::multimap<std::type_index, PlotInfo> plots;$/;"	m	class:Plots
+plots	plotview.h	/^    std::vector<std::unique_ptr<Plot>> plots;$/;"	m	class:PlotView
+plotsHeight	plotview.cpp	/^int PlotView::plotsHeight()$/;"	f	class:PlotView
+pointOverCursor	cursor.cpp	/^bool Cursor::pointOverCursor(QPoint point)$/;"	f	class:Cursor
+pointWithinDragRegion	cursors.cpp	/^bool Cursors::pointWithinDragRegion(QPoint point) {$/;"	f	class:Cursors
+pos	cursor.cpp	/^int Cursor::pos()$/;"	f	class:Cursor
+posChanged	build/inspectrum_automoc.dir/moc_cursor_YX6DEX2X442UWD.cpp	/^void Cursor::posChanged()$/;"	f	class:Cursor
+powerMax	plotview.h	/^    int powerMax;$/;"	m	class:PlotView
+powerMax	spectrogramplot.h	/^    float powerMax;$/;"	m	class:SpectrogramPlot
+powerMaxChanged	spectrogramcontrols.cpp	/^void SpectrogramControls::powerMaxChanged(int value)$/;"	f	class:SpectrogramControls
+powerMaxSlider	spectrogramcontrols.h	/^    QSlider *powerMaxSlider;$/;"	m	class:SpectrogramControls
+powerMin	plotview.h	/^    int powerMin;$/;"	m	class:PlotView
+powerMin	spectrogramplot.h	/^    float powerMin;$/;"	m	class:SpectrogramPlot
+powerMinChanged	spectrogramcontrols.cpp	/^void SpectrogramControls::powerMinChanged(int value)$/;"	f	class:SpectrogramControls
+powerMinSlider	spectrogramcontrols.h	/^    QSlider *powerMinSlider;$/;"	m	class:SpectrogramControls
+process	fft.cpp	/^void FFT::process(void *dest, void *source)$/;"	f	class:FFT
+qHash	spectrogramplot.cpp	/^uint qHash(const TileCacheKey &key, uint seed)$/;"	f
+qnxnto	build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qt_meta_data_Cursor	build/inspectrum_automoc.dir/moc_cursor_YX6DEX2X442UWD.cpp	/^static const uint qt_meta_data_Cursor[] = {$/;"	v	file:
+qt_meta_data_Cursors	build/inspectrum_automoc.dir/moc_cursors_2W53KGSG6JZ4HK.cpp	/^static const uint qt_meta_data_Cursors[] = {$/;"	v	file:
+qt_meta_data_MainWindow	build/inspectrum_automoc.dir/moc_mainwindow_L2CLFKCLUYECYY.cpp	/^static const uint qt_meta_data_MainWindow[] = {$/;"	v	file:
+qt_meta_data_Plot	build/inspectrum_automoc.dir/moc_plot_V4FBCMGR26WIQ5.cpp	/^static const uint qt_meta_data_Plot[] = {$/;"	v	file:
+qt_meta_data_PlotView	build/inspectrum_automoc.dir/moc_plotview_VNP5R5UWLMQDXA.cpp	/^static const uint qt_meta_data_PlotView[] = {$/;"	v	file:
+qt_meta_data_SpectrogramControls	build/inspectrum_automoc.dir/moc_spectrogramcon_FAKNOREBDHBS5X.cpp	/^static const uint qt_meta_data_SpectrogramControls[] = {$/;"	v	file:
+qt_meta_data_SpectrogramPlot	build/inspectrum_automoc.dir/moc_spectrogramplo_GKCJ6X4YSQTXQM.cpp	/^static const uint qt_meta_data_SpectrogramPlot[] = {$/;"	v	file:
+qt_meta_data_TracePlot	build/inspectrum_automoc.dir/moc_traceplot_DAK4UOJUVQJRGX.cpp	/^static const uint qt_meta_data_TracePlot[] = {$/;"	v	file:
+qt_meta_data_Tuner	build/inspectrum_automoc.dir/moc_tuner_QZZCWSNDRQJSOX.cpp	/^static const uint qt_meta_data_Tuner[] = {$/;"	v	file:
+qt_meta_stringdata_Cursor	build/inspectrum_automoc.dir/moc_cursor_YX6DEX2X442UWD.cpp	/^static const qt_meta_stringdata_Cursor_t qt_meta_stringdata_Cursor = {$/;"	v	file:
+qt_meta_stringdata_Cursor_t	build/inspectrum_automoc.dir/moc_cursor_YX6DEX2X442UWD.cpp	/^struct qt_meta_stringdata_Cursor_t {$/;"	s	file:
+qt_meta_stringdata_Cursors	build/inspectrum_automoc.dir/moc_cursors_2W53KGSG6JZ4HK.cpp	/^static const qt_meta_stringdata_Cursors_t qt_meta_stringdata_Cursors = {$/;"	v	file:
+qt_meta_stringdata_Cursors_t	build/inspectrum_automoc.dir/moc_cursors_2W53KGSG6JZ4HK.cpp	/^struct qt_meta_stringdata_Cursors_t {$/;"	s	file:
+qt_meta_stringdata_MainWindow	build/inspectrum_automoc.dir/moc_mainwindow_L2CLFKCLUYECYY.cpp	/^static const qt_meta_stringdata_MainWindow_t qt_meta_stringdata_MainWindow = {$/;"	v	file:
+qt_meta_stringdata_MainWindow_t	build/inspectrum_automoc.dir/moc_mainwindow_L2CLFKCLUYECYY.cpp	/^struct qt_meta_stringdata_MainWindow_t {$/;"	s	file:
+qt_meta_stringdata_Plot	build/inspectrum_automoc.dir/moc_plot_V4FBCMGR26WIQ5.cpp	/^static const qt_meta_stringdata_Plot_t qt_meta_stringdata_Plot = {$/;"	v	file:
+qt_meta_stringdata_PlotView	build/inspectrum_automoc.dir/moc_plotview_VNP5R5UWLMQDXA.cpp	/^static const qt_meta_stringdata_PlotView_t qt_meta_stringdata_PlotView = {$/;"	v	file:
+qt_meta_stringdata_PlotView_t	build/inspectrum_automoc.dir/moc_plotview_VNP5R5UWLMQDXA.cpp	/^struct qt_meta_stringdata_PlotView_t {$/;"	s	file:
+qt_meta_stringdata_Plot_t	build/inspectrum_automoc.dir/moc_plot_V4FBCMGR26WIQ5.cpp	/^struct qt_meta_stringdata_Plot_t {$/;"	s	file:
+qt_meta_stringdata_SpectrogramControls	build/inspectrum_automoc.dir/moc_spectrogramcon_FAKNOREBDHBS5X.cpp	/^static const qt_meta_stringdata_SpectrogramControls_t qt_meta_stringdata_SpectrogramControls = {$/;"	v	file:
+qt_meta_stringdata_SpectrogramControls_t	build/inspectrum_automoc.dir/moc_spectrogramcon_FAKNOREBDHBS5X.cpp	/^struct qt_meta_stringdata_SpectrogramControls_t {$/;"	s	file:
+qt_meta_stringdata_SpectrogramPlot	build/inspectrum_automoc.dir/moc_spectrogramplo_GKCJ6X4YSQTXQM.cpp	/^static const qt_meta_stringdata_SpectrogramPlot_t qt_meta_stringdata_SpectrogramPlot = {$/;"	v	file:
+qt_meta_stringdata_SpectrogramPlot_t	build/inspectrum_automoc.dir/moc_spectrogramplo_GKCJ6X4YSQTXQM.cpp	/^struct qt_meta_stringdata_SpectrogramPlot_t {$/;"	s	file:
+qt_meta_stringdata_TracePlot	build/inspectrum_automoc.dir/moc_traceplot_DAK4UOJUVQJRGX.cpp	/^static const qt_meta_stringdata_TracePlot_t qt_meta_stringdata_TracePlot = {$/;"	v	file:
+qt_meta_stringdata_TracePlot_t	build/inspectrum_automoc.dir/moc_traceplot_DAK4UOJUVQJRGX.cpp	/^struct qt_meta_stringdata_TracePlot_t {$/;"	s	file:
+qt_meta_stringdata_Tuner	build/inspectrum_automoc.dir/moc_tuner_QZZCWSNDRQJSOX.cpp	/^static const qt_meta_stringdata_Tuner_t qt_meta_stringdata_Tuner = {$/;"	v	file:
+qt_meta_stringdata_Tuner_t	build/inspectrum_automoc.dir/moc_tuner_QZZCWSNDRQJSOX.cpp	/^struct qt_meta_stringdata_Tuner_t {$/;"	s	file:
+qt_metacall	build/inspectrum_automoc.dir/moc_cursor_YX6DEX2X442UWD.cpp	/^int Cursor::qt_metacall(QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:Cursor
+qt_metacall	build/inspectrum_automoc.dir/moc_cursors_2W53KGSG6JZ4HK.cpp	/^int Cursors::qt_metacall(QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:Cursors
+qt_metacall	build/inspectrum_automoc.dir/moc_mainwindow_L2CLFKCLUYECYY.cpp	/^int MainWindow::qt_metacall(QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:MainWindow
+qt_metacall	build/inspectrum_automoc.dir/moc_plot_V4FBCMGR26WIQ5.cpp	/^int Plot::qt_metacall(QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:Plot
+qt_metacall	build/inspectrum_automoc.dir/moc_plotview_VNP5R5UWLMQDXA.cpp	/^int PlotView::qt_metacall(QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:PlotView
+qt_metacall	build/inspectrum_automoc.dir/moc_spectrogramcon_FAKNOREBDHBS5X.cpp	/^int SpectrogramControls::qt_metacall(QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:SpectrogramControls
+qt_metacall	build/inspectrum_automoc.dir/moc_spectrogramplo_GKCJ6X4YSQTXQM.cpp	/^int SpectrogramPlot::qt_metacall(QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:SpectrogramPlot
+qt_metacall	build/inspectrum_automoc.dir/moc_traceplot_DAK4UOJUVQJRGX.cpp	/^int TracePlot::qt_metacall(QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:TracePlot
+qt_metacall	build/inspectrum_automoc.dir/moc_tuner_QZZCWSNDRQJSOX.cpp	/^int Tuner::qt_metacall(QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:Tuner
+qt_metacast	build/inspectrum_automoc.dir/moc_cursor_YX6DEX2X442UWD.cpp	/^void *Cursor::qt_metacast(const char *_clname)$/;"	f	class:Cursor
+qt_metacast	build/inspectrum_automoc.dir/moc_cursors_2W53KGSG6JZ4HK.cpp	/^void *Cursors::qt_metacast(const char *_clname)$/;"	f	class:Cursors
+qt_metacast	build/inspectrum_automoc.dir/moc_mainwindow_L2CLFKCLUYECYY.cpp	/^void *MainWindow::qt_metacast(const char *_clname)$/;"	f	class:MainWindow
+qt_metacast	build/inspectrum_automoc.dir/moc_plot_V4FBCMGR26WIQ5.cpp	/^void *Plot::qt_metacast(const char *_clname)$/;"	f	class:Plot
+qt_metacast	build/inspectrum_automoc.dir/moc_plotview_VNP5R5UWLMQDXA.cpp	/^void *PlotView::qt_metacast(const char *_clname)$/;"	f	class:PlotView
+qt_metacast	build/inspectrum_automoc.dir/moc_spectrogramcon_FAKNOREBDHBS5X.cpp	/^void *SpectrogramControls::qt_metacast(const char *_clname)$/;"	f	class:SpectrogramControls
+qt_metacast	build/inspectrum_automoc.dir/moc_spectrogramplo_GKCJ6X4YSQTXQM.cpp	/^void *SpectrogramPlot::qt_metacast(const char *_clname)$/;"	f	class:SpectrogramPlot
+qt_metacast	build/inspectrum_automoc.dir/moc_traceplot_DAK4UOJUVQJRGX.cpp	/^void *TracePlot::qt_metacast(const char *_clname)$/;"	f	class:TracePlot
+qt_metacast	build/inspectrum_automoc.dir/moc_tuner_QZZCWSNDRQJSOX.cpp	/^void *Tuner::qt_metacast(const char *_clname)$/;"	f	class:Tuner
+qt_static_metacall	build/inspectrum_automoc.dir/moc_cursor_YX6DEX2X442UWD.cpp	/^void Cursor::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:Cursor
+qt_static_metacall	build/inspectrum_automoc.dir/moc_cursors_2W53KGSG6JZ4HK.cpp	/^void Cursors::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:Cursors
+qt_static_metacall	build/inspectrum_automoc.dir/moc_mainwindow_L2CLFKCLUYECYY.cpp	/^void MainWindow::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:MainWindow
+qt_static_metacall	build/inspectrum_automoc.dir/moc_plot_V4FBCMGR26WIQ5.cpp	/^void Plot::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:Plot
+qt_static_metacall	build/inspectrum_automoc.dir/moc_plotview_VNP5R5UWLMQDXA.cpp	/^void PlotView::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:PlotView
+qt_static_metacall	build/inspectrum_automoc.dir/moc_spectrogramcon_FAKNOREBDHBS5X.cpp	/^void SpectrogramControls::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:SpectrogramControls
+qt_static_metacall	build/inspectrum_automoc.dir/moc_spectrogramplo_GKCJ6X4YSQTXQM.cpp	/^void SpectrogramPlot::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:SpectrogramPlot
+qt_static_metacall	build/inspectrum_automoc.dir/moc_traceplot_DAK4UOJUVQJRGX.cpp	/^void TracePlot::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:TracePlot
+qt_static_metacall	build/inspectrum_automoc.dir/moc_tuner_QZZCWSNDRQJSOX.cpp	/^void Tuner::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:Tuner
+range_t	util.h	/^struct range_t {$/;"	s
+rate	inputsource.cpp	/^off_t InputSource::rate()$/;"	f	class:InputSource
+rate	samplebuffer.h	/^    off_t rate() {$/;"	f	class:SampleBuffer
+rateLabel	spectrogramcontrols.h	/^    QLabel *rateLabel;$/;"	m	class:SpectrogramControls
+relativeBandwidth	inputsource.h	/^    float relativeBandwidth() {$/;"	f	class:InputSource
+relativeBandwidth	samplebuffer.h	/^    float relativeBandwidth() {$/;"	f	class:SampleBuffer
+relativeBandwidth	tunertransform.cpp	/^float TunerTransform::relativeBandwidth() {$/;"	f	class:TunerTransform
+repaint	build/inspectrum_automoc.dir/moc_plot_V4FBCMGR26WIQ5.cpp	/^void Plot::repaint()$/;"	f	class:Plot
+repaint	plotview.cpp	/^void PlotView::repaint()$/;"	f	class:PlotView
+reset_if_outside	util.h	/^    void reset_if_outside(T& value, const T& reset_value) const {$/;"	f	struct:range_t
+resizeEvent	plotview.cpp	/^void PlotView::resizeEvent(QResizeEvent * event)$/;"	f	class:PlotView
+sample	spectrogramplot.h	/^    off_t sample;$/;"	m	class:TileCacheKey
+sampleAdapter	inputsource.h	/^    std::unique_ptr<SampleAdapter> sampleAdapter;$/;"	m	class:InputSource
+sampleCount	inputsource.h	/^    off_t sampleCount = 0;$/;"	m	class:InputSource
+samplePlot	plots.cpp	/^Plot* Plots::samplePlot(std::shared_ptr<AbstractSampleSource> source)$/;"	f	class:Plots
+sampleRate	inputsource.h	/^    off_t sampleRate = 0;$/;"	m	class:InputSource
+sampleRate	plotview.h	/^    off_t sampleRate = 0;$/;"	m	class:PlotView
+sampleRate	spectrogramcontrols.h	/^    QLineEdit *sampleRate;$/;"	m	class:SpectrogramControls
+sampleRate	spectrogramplot.h	/^    off_t sampleRate;$/;"	m	class:SpectrogramPlot
+sampleSource	plot.h	/^    std::shared_ptr<AbstractSampleSource> sampleSource;$/;"	m	class:Plot
+sampleToColumn	plotview.cpp	/^int PlotView::sampleToColumn(off_t sample)$/;"	f	class:PlotView
+sampleType	samplesource.cpp	/^std::type_index SampleSource<T>::sampleType()$/;"	f	class:SampleSource
+samplesPerColumn	plotview.cpp	/^off_t PlotView::samplesPerColumn()$/;"	f	class:PlotView
+scalesCheckBox	spectrogramcontrols.h	/^    QCheckBox *scalesCheckBox;$/;"	m	class:SpectrogramControls
+scrollContentsBy	plotview.cpp	/^void PlotView::scrollContentsBy(int dx, int dy)$/;"	f	class:PlotView
+scrollZoomStepsAccumulated	plotview.h	/^    int scrollZoomStepsAccumulated = 0;$/;"	m	class:PlotView
+segmentCount	cursors.h	/^    int segmentCount = 1;$/;"	m	class:Cursors
+segments	cursors.cpp	/^int Cursors::segments()$/;"	f	class:Cursors
+selectedSamples	plotview.h	/^    range_t<off_t> selectedSamples;$/;"	m	class:PlotView
+selection	cursors.cpp	/^range_t<int> Cursors::selection()$/;"	f	class:Cursors
+setCentre	tuner.cpp	/^void Tuner::setCentre(int centre)$/;"	f	class:Tuner
+setCursorSegments	plotview.cpp	/^void PlotView::setCursorSegments(int segments)$/;"	f	class:PlotView
+setDefaults	spectrogramcontrols.cpp	/^void SpectrogramControls::setDefaults()$/;"	f	class:SpectrogramControls
+setDeviation	tuner.cpp	/^void Tuner::setDeviation(int dev)$/;"	f	class:Tuner
+setFFTAndZoom	plotview.cpp	/^void PlotView::setFFTAndZoom(int size, int zoom)$/;"	f	class:PlotView
+setFFTSize	spectrogramplot.cpp	/^void SpectrogramPlot::setFFTSize(int size)$/;"	f	class:SpectrogramPlot
+setFrequency	tunertransform.cpp	/^void TunerTransform::setFrequency(float frequency)$/;"	f	class:TunerTransform
+setHeight	plot.h	/^    void setHeight(int height) { _height = height; };$/;"	f	class:Plot
+setHeight	tuner.cpp	/^void Tuner::setHeight(int height)$/;"	f	class:Tuner
+setPos	cursor.cpp	/^void Cursor::setPos(int newPos)$/;"	f	class:Cursor
+setPowerMax	plotview.cpp	/^void PlotView::setPowerMax(int power)$/;"	f	class:PlotView
+setPowerMax	spectrogramplot.cpp	/^void SpectrogramPlot::setPowerMax(int power)$/;"	f	class:SpectrogramPlot
+setPowerMin	plotview.cpp	/^void PlotView::setPowerMin(int power)$/;"	f	class:PlotView
+setPowerMin	spectrogramplot.cpp	/^void SpectrogramPlot::setPowerMin(int power)$/;"	f	class:SpectrogramPlot
+setRelativeBandwith	tunertransform.cpp	/^void TunerTransform::setRelativeBandwith(float bandwidth)$/;"	f	class:TunerTransform
+setSampleRate	inputsource.cpp	/^void InputSource::setSampleRate(off_t rate)$/;"	f	class:InputSource
+setSampleRate	mainwindow.cpp	/^void MainWindow::setSampleRate(QString rate)$/;"	f	class:MainWindow
+setSampleRate	mainwindow.cpp	/^void MainWindow::setSampleRate(int rate)$/;"	f	class:MainWindow
+setSampleRate	plotview.cpp	/^void PlotView::setSampleRate(off_t rate)$/;"	f	class:PlotView
+setSampleRate	spectrogramplot.cpp	/^void SpectrogramPlot::setSampleRate(off_t rate)$/;"	f	class:SpectrogramPlot
+setSegments	cursors.cpp	/^void Cursors::setSegments(int segments)$/;"	f	class:Cursors
+setSelection	cursors.cpp	/^void Cursors::setSelection(range_t<int> selection)$/;"	f	class:Cursors
+setTaps	tunertransform.cpp	/^void TunerTransform::setTaps(std::vector<float> taps)$/;"	f	class:TunerTransform
+setZoomLevel	spectrogramplot.cpp	/^void SpectrogramPlot::setZoomLevel(int zoom)$/;"	f	class:SpectrogramPlot
+source	traceplot.h	/^    std::shared_ptr<AbstractSampleSource> source() { return sampleSource; };$/;"	f	class:TracePlot
+spectrogramPlot	plotview.h	/^    SpectrogramPlot *spectrogramPlot = nullptr;$/;"	m	class:PlotView
+src	samplebuffer.h	/^    std::shared_ptr<SampleSource<Tin>> src;$/;"	m	class:SampleBuffer
+staticMetaObject	build/inspectrum_automoc.dir/moc_cursor_YX6DEX2X442UWD.cpp	/^const QMetaObject Cursor::staticMetaObject = {$/;"	m	class:Cursor	file:
+staticMetaObject	build/inspectrum_automoc.dir/moc_cursors_2W53KGSG6JZ4HK.cpp	/^const QMetaObject Cursors::staticMetaObject = {$/;"	m	class:Cursors	file:
+staticMetaObject	build/inspectrum_automoc.dir/moc_mainwindow_L2CLFKCLUYECYY.cpp	/^const QMetaObject MainWindow::staticMetaObject = {$/;"	m	class:MainWindow	file:
+staticMetaObject	build/inspectrum_automoc.dir/moc_plot_V4FBCMGR26WIQ5.cpp	/^const QMetaObject Plot::staticMetaObject = {$/;"	m	class:Plot	file:
+staticMetaObject	build/inspectrum_automoc.dir/moc_plotview_VNP5R5UWLMQDXA.cpp	/^const QMetaObject PlotView::staticMetaObject = {$/;"	m	class:PlotView	file:
+staticMetaObject	build/inspectrum_automoc.dir/moc_spectrogramcon_FAKNOREBDHBS5X.cpp	/^const QMetaObject SpectrogramControls::staticMetaObject = {$/;"	m	class:SpectrogramControls	file:
+staticMetaObject	build/inspectrum_automoc.dir/moc_spectrogramplo_GKCJ6X4YSQTXQM.cpp	/^const QMetaObject SpectrogramPlot::staticMetaObject = {$/;"	m	class:SpectrogramPlot	file:
+staticMetaObject	build/inspectrum_automoc.dir/moc_traceplot_DAK4UOJUVQJRGX.cpp	/^const QMetaObject TracePlot::staticMetaObject = {$/;"	m	class:TracePlot	file:
+staticMetaObject	build/inspectrum_automoc.dir/moc_tuner_QZZCWSNDRQJSOX.cpp	/^const QMetaObject Tuner::staticMetaObject = {$/;"	m	class:Tuner	file:
+stringdata0	build/inspectrum_automoc.dir/moc_cursor_YX6DEX2X442UWD.cpp	/^    char stringdata0[19];$/;"	m	struct:qt_meta_stringdata_Cursor_t	file:
+stringdata0	build/inspectrum_automoc.dir/moc_cursors_2W53KGSG6JZ4HK.cpp	/^    char stringdata0[34];$/;"	m	struct:qt_meta_stringdata_Cursors_t	file:
+stringdata0	build/inspectrum_automoc.dir/moc_mainwindow_L2CLFKCLUYECYY.cpp	/^    char stringdata0[49];$/;"	m	struct:qt_meta_stringdata_MainWindow_t	file:
+stringdata0	build/inspectrum_automoc.dir/moc_plot_V4FBCMGR26WIQ5.cpp	/^    char stringdata0[14];$/;"	m	struct:qt_meta_stringdata_Plot_t	file:
+stringdata0	build/inspectrum_automoc.dir/moc_plotview_VNP5R5UWLMQDXA.cpp	/^    char stringdata0[212];$/;"	m	struct:qt_meta_stringdata_PlotView_t	file:
+stringdata0	build/inspectrum_automoc.dir/moc_spectrogramcon_FAKNOREBDHBS5X.cpp	/^    char stringdata0[233];$/;"	m	struct:qt_meta_stringdata_SpectrogramControls_t	file:
+stringdata0	build/inspectrum_automoc.dir/moc_spectrogramplo_GKCJ6X4YSQTXQM.cpp	/^    char stringdata0[92];$/;"	m	struct:qt_meta_stringdata_SpectrogramPlot_t	file:
+stringdata0	build/inspectrum_automoc.dir/moc_traceplot_DAK4UOJUVQJRGX.cpp	/^    char stringdata0[44];$/;"	m	struct:qt_meta_stringdata_TracePlot_t	file:
+stringdata0	build/inspectrum_automoc.dir/moc_tuner_QZZCWSNDRQJSOX.cpp	/^    char stringdata0[30];$/;"	m	struct:qt_meta_stringdata_Tuner_t	file:
+subscribe	abstractsamplesource.cpp	/^void AbstractSampleSource::subscribe(Subscriber *subscriber)$/;"	f	class:AbstractSampleSource
+subscriberCount	abstractsamplesource.cpp	/^int AbstractSampleSource::subscriberCount()$/;"	f	class:AbstractSampleSource
+subscribers	abstractsamplesource.h	/^    std::set<Subscriber*> subscribers;$/;"	m	class:AbstractSampleSource
+symbolPeriodLabel	spectrogramcontrols.h	/^    QLabel *symbolPeriodLabel;$/;"	m	class:SpectrogramControls
+symbolRateLabel	spectrogramcontrols.h	/^    QLabel *symbolRateLabel;$/;"	m	class:SpectrogramControls
+taps	tunertransform.h	/^    std::vector<float> taps;$/;"	m	class:TunerTransform
+tasks	traceplot.h	/^	QSet<QString> tasks;$/;"	m	class:TracePlot
+thresholdPlot	plots.cpp	/^Plot* Plots::thresholdPlot(std::shared_ptr<AbstractSampleSource> source)$/;"	f	class:Plots
+tileSize	spectrogramplot.h	/^    static const int tileSize = 65536; \/\/ This must be a multiple of the maximum FFT size$/;"	m	class:SpectrogramPlot
+tileWidth	traceplot.h	/^	const int tileWidth = 1000;$/;"	m	class:TracePlot
+timeScaleEnabled	plotview.h	/^    bool timeScaleEnabled;$/;"	m	class:PlotView
+timeSelectionChanged	build/inspectrum_automoc.dir/moc_plotview_VNP5R5UWLMQDXA.cpp	/^void PlotView::timeSelectionChanged(float _t1)$/;"	f	class:PlotView
+timeSelectionChanged	spectrogramcontrols.cpp	/^void SpectrogramControls::timeSelectionChanged(float time)$/;"	f	class:SpectrogramControls
+tuner	spectrogramplot.h	/^    Tuner tuner;$/;"	m	class:SpectrogramPlot
+tunerEnabled	spectrogramplot.cpp	/^bool SpectrogramPlot::tunerEnabled()$/;"	f	class:SpectrogramPlot
+tunerMoved	build/inspectrum_automoc.dir/moc_tuner_QZZCWSNDRQJSOX.cpp	/^void Tuner::tunerMoved()$/;"	f	class:Tuner
+tunerMoved	spectrogramplot.cpp	/^void SpectrogramPlot::tunerMoved()$/;"	f	class:SpectrogramPlot
+tunerTransform	spectrogramplot.h	/^    std::shared_ptr<TunerTransform> tunerTransform;$/;"	m	class:SpectrogramPlot
+unsubscribe	abstractsamplesource.cpp	/^void AbstractSampleSource::unsubscribe(Subscriber *subscriber)$/;"	f	class:AbstractSampleSource
+updateCursors	tuner.cpp	/^void Tuner::updateCursors()$/;"	f	class:Tuner
+updateView	plotview.cpp	/^void PlotView::updateView(bool reCenter)$/;"	f	class:PlotView
+updateViewRange	plotview.cpp	/^void PlotView::updateViewRange(bool reCenter)$/;"	f	class:PlotView
+viewRange	plotview.h	/^    range_t<off_t> viewRange;$/;"	m	class:PlotView
+viewportEvent	plotview.cpp	/^bool PlotView::viewportEvent(QEvent *event) {$/;"	f	class:PlotView
+widget	spectrogramcontrols.h	/^    QWidget *widget;$/;"	m	class:SpectrogramControls
+window	spectrogramplot.h	/^    std::unique_ptr<float[]> window;$/;"	m	class:SpectrogramPlot
+work	amplitudedemod.cpp	/^void AmplitudeDemod::work(void *input, void *output, int count, off_t sampleid)$/;"	f	class:AmplitudeDemod
+work	frequencydemod.cpp	/^void FrequencyDemod::work(void *input, void *output, int count, off_t sampleid)$/;"	f	class:FrequencyDemod
+work	phasedemod.cpp	/^void PhaseDemod::work(void *input, void *output, int count, off_t sampleid)$/;"	f	class:PhaseDemod
+work	threshold.cpp	/^void Threshold::work(void *input, void *output, int count, off_t sampleid)$/;"	f	class:Threshold
+work	tunertransform.cpp	/^void TunerTransform::work(void *input, void *output, int count, off_t sampleid)$/;"	f	class:TunerTransform
+zoomIn	build/inspectrum_automoc.dir/moc_plotview_VNP5R5UWLMQDXA.cpp	/^void PlotView::zoomIn()$/;"	f	class:PlotView
+zoomIn	spectrogramcontrols.cpp	/^void SpectrogramControls::zoomIn()$/;"	f	class:SpectrogramControls
+zoomLevel	plotview.h	/^    int zoomLevel = 0;$/;"	m	class:PlotView
+zoomLevel	spectrogramplot.h	/^    int zoomLevel;$/;"	m	class:SpectrogramPlot
+zoomLevel	spectrogramplot.h	/^    int zoomLevel;$/;"	m	class:TileCacheKey
+zoomLevelChanged	spectrogramcontrols.cpp	/^void SpectrogramControls::zoomLevelChanged(int value)$/;"	f	class:SpectrogramControls
+zoomLevelSlider	spectrogramcontrols.h	/^    QSlider *zoomLevelSlider;$/;"	m	class:SpectrogramControls
+zoomOut	build/inspectrum_automoc.dir/moc_plotview_VNP5R5UWLMQDXA.cpp	/^void PlotView::zoomOut()$/;"	f	class:PlotView
+zoomOut	spectrogramcontrols.cpp	/^void SpectrogramControls::zoomOut()$/;"	f	class:SpectrogramControls
+zoomPos	plotview.h	/^    int zoomPos;$/;"	m	class:PlotView
+zoomSample	plotview.h	/^    off_t zoomSample;$/;"	m	class:PlotView
+~AbstractSampleSource	abstractsamplesource.h	/^    virtual ~AbstractSampleSource() {};$/;"	f	class:AbstractSampleSource
+~FFT	fft.cpp	/^FFT::~FFT()$/;"	f	class:FFT
+~InputSource	inputsource.cpp	/^InputSource::~InputSource()$/;"	f	class:InputSource
+~Plot	plot.cpp	/^Plot::~Plot()$/;"	f	class:Plot
+~SampleBuffer	samplebuffer.cpp	/^SampleBuffer<Tin, Tout>::~SampleBuffer()$/;"	f	class:SampleBuffer
+~SampleSource	samplesource.h	/^    virtual ~SampleSource() {};$/;"	f	class:SampleSource
